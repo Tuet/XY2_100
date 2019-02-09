@@ -1,0 +1,19 @@
+{
+  "name": "XY2_100",
+  "frameworks": "Arduino",
+  "platforms": "Teensy",
+  "keywords": "",
+  "description": "Output XY2-100 galvanometer scanner protocol",
+  "homepage": "",
+  "authors":
+  {
+    "name": "Lutz Lisseck",
+    "maintainer": true
+  },
+  "repository":
+  {
+      "type": "git",
+      "url": "https://github.com/Tuet"
+  },
+  "version": "1.0"
+}
